@@ -14,16 +14,7 @@ The core interaction is:
 
 ## My Role
 
-Product Designer
-
-- Product Concept
-- UX/UI Design
-- User Flows
-- Interaction Design
-- Developer Experience (DX)
-- AI Interaction Design
-- Prototyping
-- Design System
+AI Product Builder | Design Engineer | AI-Assisted Developer
 
 ## Key Features
 
